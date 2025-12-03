@@ -1,4 +1,4 @@
-![Стек технологий](https://skillicons.dev/icons?i=github,kotlin,gradle,androidstudio,pytorch&theme=dark)
+![Стек технологий](https://skillicons.dev/icons?i=github,kotlin,gradle,androidstudio,python,pytorch,fastapi,docker&theme=dark)
 
 
 # 🚨 SafetyScooter — мобильное приложение для фиксации нарушений
