@@ -1,0 +1,9 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/VladislavIlin7/Safety_scooter
+[submodule "ai_worker"]
+	path = ai_worker
+	url = https://github.com/andreysk0304/safety_scooter_ai
+[submodule "backend"]
+	path = backend
+	url = https://github.com/andreysk0304/safety_scooter
